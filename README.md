@@ -20,7 +20,10 @@ seperating the data as numerical and categorical data, encoding categorical colu
 - XG Boost(optimized with GridsearchCV)
 - Support Vector Regression (SVR)(optimized with GridsearchCV)
 # Evalution Metrics
-RMSE,MAE,R^2
+- Root Mean Square Error (RMSE)
+- Mean Absolute Error (MAE)
+- R-Squared
+
 
 # Dataset
 The Dataset contains following features
@@ -29,7 +32,7 @@ The Dataset contains following features
 - job_ID
 - company_id
 - employees_count
-- total_applicants    
+- total_applicants (Target variable)   
 - linkedin_followers
 - details_id
 
@@ -43,5 +46,26 @@ The Dataset contains following features
 - level
 - City
 - State
+
+# Prerequisites
+- Python 3.x
+- **Required libraries:**
+- pandas
+- numpy
+- scikit-learn
+- seborn
+- matplotlib
+- Xgboost
+- SVR
+- Random forest
+- Gradient boosting
+
+
+Usage: use final.ipynb file
+
+
+install the required libraries:
+
+pip install scikit-learn,Xgboost
 
 
