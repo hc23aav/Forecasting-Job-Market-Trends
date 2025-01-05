@@ -2,8 +2,6 @@
 
 
 Project Overview:
-The goal of this project is to predict trends in the job market by analyzing job data extracted from LinkedIn. The dataset contains 5,588 job postings from various industries and regions. This study will identify trends in job roles, the skills in demand, and the geographical distribution of jobs. It will help job seekers, employers, and policymakers better understand how the job market is changing.
 
+This research project's main goal is to use a variety of machine learning models to forecast the total number of applicants for a given dataset. This prediction can be used in a number of real-world situations where knowing and forecasting the number of applications can help with decision-making, including marketing strategies, admissions, and recruitment.
 
-Research Question:
-What are the emerging job market trends in terms of job roles, required skills, and geographic distribution?
